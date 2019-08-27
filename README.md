@@ -1,4 +1,4 @@
-## Recovery Device Tree for the Samsung Galaxy Note 10+ 4G+
+## Recovery Device Tree for the Samsung Galaxy Note 10 4G+
 
 ## How-to compile it:
 
